@@ -1,0 +1,154 @@
+[
+    {
+        "conversion_name": "US liquid gallon",
+        "metric": "lg",
+        "action": "*",
+        "value": "3.785",
+        "conversion": "/",
+        "c_value": "3.785"
+    },
+	{
+        "conversion_name": "US liquid quart",
+        "metric": "lq",
+        "action": "/",
+        "value": "1.057",
+        "conversion": "*",
+        "c_value": "1.057"
+    },
+    {
+        "conversion_name": "US liquid pint",
+        "metric": "lp",
+        "action": "/",
+        "value": "2.113",
+        "conversion": "*",
+        "c_value": "2.113"
+    },
+    {
+        "conversion_name": "US legal cup",
+        "metric": "lc",
+        "action": "/",
+        "value": "4.167",
+        "conversion": "*",
+        "c_value": "4.167"
+    },
+    {
+        "conversion_name": "US fluid ounce",
+        "metric": "fo",
+        "action": "/",
+        "value": "33.814",
+        "conversion": "*",
+        "c_value": "33.814"
+    },
+    {
+        "conversion_name": "US tablespoon",
+        "metric": "tabs",
+        "action": "/",
+        "value": "67.628",
+        "conversion": "*",
+        "c_value": "67.628"
+    },
+    {
+        "conversion_name": "US teaspoon",
+        "metric": "teas",
+        "action": "/",
+        "value": "203",
+        "conversion": "*",
+        "c_value": "203"
+    },
+    {
+        "conversion_name": "Cubic metre",
+        "metric": "cm",
+        "action": "*",
+        "value": "1000",
+        "conversion": "/",
+        "c_value": "1000"
+    },
+    {
+        "conversion_name": "Litre",
+        "metric": "l",
+        "action": "/",
+        "value": "1",
+        "conversion": "*",
+        "c_value": "1"
+    },
+    {
+        "conversion_name": "Millilitre",
+        "metric": "ml",
+        "action": "/",
+        "value": "1000",
+        "conversion": "*",
+        "c_value": "1000"
+    },
+    {
+        "conversion_name": "Imperial gallon",
+        "metric": "ig",
+        "action": "/",
+        "value": "4.546",
+        "conversion": "*",
+        "c_value": "4.546"
+    },
+    {
+        "conversion_name": "Imperial quart",
+        "metric": "iq",
+        "action": "*",
+        "value": "1.137",
+        "conversion": "/",
+        "c_value": "1.137"
+    },
+    {
+        "conversion_name": "Imperial pint",
+        "metric": "ip",
+        "action": "/",
+        "value": "1.76",
+        "conversion": "*",
+        "c_value": "1.76"
+    },
+    {
+        "conversion_name": "Imperial cup",
+        "metric": "ic",
+        "action": "/",
+        "value": "3.52",
+        "conversion": "*",
+        "c_value": "3.52"
+    },
+    {
+        "conversion_name": "Imperial fluid ounce",
+        "metric": "ifo",
+        "action": "/",
+        "value": "35.195",
+        "conversion": "*",
+        "c_value": "35.195"
+    },
+    {
+        "conversion_name": "Imperial tablespoon",
+        "metric": "itabs",
+        "action": "/",
+        "value": "56.312",
+        "conversion": "*",
+        "c_value": "56.312"
+    },
+    {
+        "conversion_name": "Imperial teaspoon",
+        "metric": "iteas",
+        "action": "/",
+        "value": "169",
+        "conversion": "*",
+        "c_value": "168.936"
+    },
+    {
+        "conversion_name": "Cubic foot",
+        "metric": "cf",
+        "action": "*",
+        "value": "28.317",
+        "conversion": "/",
+        "c_value": "28.317"
+    },
+    {
+        "conversion_name": "Cubic inch",
+        "metric": "ci",
+        "action": "/",
+        "value": "61.024",
+        "conversion": "*",
+        "c_value": "61.024"
+    }
+]
